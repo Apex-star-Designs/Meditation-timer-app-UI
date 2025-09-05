@@ -16,7 +16,6 @@ Includes timer controls, pause/reset functions, and a progress ring to enhance u
 - Figma  
 
 ## Preview  
-![App Screenshot]
 
 <img width="337" height="664" alt="Image" src="https://github.com/user-attachments/assets/5d6475b7-87ab-4a94-98f3-6cb86152e5e3" />
 
