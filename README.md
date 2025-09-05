@@ -27,5 +27,5 @@ Includes timer controls, pause/reset functions, and a progress ring to enhance u
 
 
 ## Prototype Link  
-[View Figma Prototype](https://https://www.figma.com/proto/ET6pw0rvCGcvjWcYFlkMAp/project?node-id=2566-480&t=izLrkGfT4DHbqEt8-1)  
+[View Figma Prototype](https://www.figma.com/proto/ET6pw0rvCGcvjWcYFlkMAp/project?node-id=2566-480&t=izLrkGfT4DHbqEt8-1  
 
