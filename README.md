@@ -1,5 +1,3 @@
-# Meditation-timer-app-
-A guided meditation timer mobile app UI focused on calm visuals, intuitive controls, and progress tracking. Designed during my internship at Elevvo
 # Meditation Timer App UI  
 
 ## Overview  
@@ -16,33 +14,18 @@ Includes timer controls, pause/reset functions, and a progress ring to enhance u
 - Figma  
 
 ## Preview  
+![App Screenshot](<img width="337" height="664" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/5a8101f7-6f39-4cf4-81df-6b18b418a7f5" />
+  <img width="340" height="664" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/e6e8677c-978a-4179-ac9b-ec7fc3693fad" />
+<img width="337" height="664" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/08221cda-cf39-4465-a072-72f29d2bf7d7" />
+<img width="337" height="664" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/5ee61792-d04a-4fed-b8fb-c6b72033c7a0" />
+<img width="335" height="666" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/bfe80373-8906-43ca-b7fe-246d6d008350" />
+<img width="335" height="666" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/433bdd48-654c-4e36-b5fc-d1c8eb20f8f6" />
+<img width="335" height="666" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/a0a664df-601a-4097-9a9b-2bf49c43b251" />
+<img width="339" height="660" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/a2e1f017-ab83-4c0d-9556-70dd3bdfa9d3" />
+<img width="339" height="660" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/2d0c9ef5-423b-467a-a8b7-3264def5db6b" />
+<img width="339" height="660" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/5dc4cffa-acc3-46b8-b0ad-eccca34a9fdd" />
 
-<img width="337" height="664" alt="Image" src="https://github.com/user-attachments/assets/5d6475b7-87ab-4a94-98f3-6cb86152e5e3" />
-
-
-<img width="340" height="664" alt="Image" src="https://github.com/user-attachments/assets/11fb3ff8-bffa-41c8-8fdb-9253a0b290c5" />
-
-
-
-<img width="337" height="664" alt="Image" src="https://github.com/user-attachments/assets/3daa0646-4b69-45f4-99fe-660b4cc9acd8" />
-
-
-
-<img width="337" height="664" alt="Image" src="https://github.com/user-attachments/assets/e5a9dccd-8e03-46f8-98a3-a3f5be73b026" />
-
-<img width="335" height="666" alt="Image" src="https://github.com/user-attachments/assets/c36ac15b-d8a6-4574-bc5a-37a24aee7125" />
-
-<img width="337" height="666" alt="Image" src="https://github.com/user-attachments/assets/e572a7c0-14df-4eaf-bf7a-0b1d12cb4284" />
-
-<img width="337" height="660" alt="Image" src="https://github.com/user-attachments/assets/08fca406-25e1-4240-a1e8-77f79495e09b" />
-
-<img width="339" height="660" alt="Image" src="https://github.com/user-attachments/assets/ea87ac89-66d5-4557-a568-ec2543ddcb17" />
-
-<img width="336" height="659" alt="Image" src="https://github.com/user-attachments/assets/5f703cca-7ff5-4562-98be-aa8aa36db1f4" />
-
-<img width="340" height="660" alt="Image" src="https://github.com/user-attachments/assets/5456da55-fbbb-4df5-bde5-002c7607fa11" />
-
-  
 
 ## Prototype Link  
-[View Figma Prototype](https://www.figma.com/proto/ET6pw0rvCGcvjWcYFlkMAp/project?node-id=2566-480&t=izLrkGfT4DHbqEt8-1)
+[View Figma Prototype](https://https://www.figma.com/proto/ET6pw0rvCGcvjWcYFlkMAp/project?node-id=2566-480&t=izLrkGfT4DHbqEt8-1)  
+
